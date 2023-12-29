@@ -1,0 +1,28 @@
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\bin\Debug\Asterix and Obelix XXL2 Remake Trainer.exe.config
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\bin\Debug\Asterix and Obelix XXL2 Remake Trainer.exe
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\bin\Debug\Asterix and Obelix XXL2 Remake Trainer.pdb
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\bin\Debug\Memory.dll
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\bin\Debug\Memory.xml
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.csproj.AssemblyReference.cache
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix_and_Obelix_XXL2_Remake_Trainer.Main.resources
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix_and_Obelix_XXL2_Remake_Trainer.Properties.Resources.resources
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.csproj.GenerateResource.cache
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.csproj.CopyComplete
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.exe
+C:\Users\JayC\source\repos\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.pdb
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\bin\Debug\Asterix and Obelix XXL2 Remake Trainer.exe.config
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\bin\Debug\Asterix and Obelix XXL2 Remake Trainer.exe
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\bin\Debug\Asterix and Obelix XXL2 Remake Trainer.pdb
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\bin\Debug\Memory.dll
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\bin\Debug\Memory.xml
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.csproj.AssemblyReference.cache
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.csproj.SuggestedBindingRedirects.cache
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix_and_Obelix_XXL2_Remake_Trainer.Main.resources
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix_and_Obelix_XXL2_Remake_Trainer.Properties.Resources.resources
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.csproj.GenerateResource.cache
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.csproj.CoreCompileInputs.cache
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.csproj.CopyComplete
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.exe
+G:\Verknüpfungen\GameHacks Development\Self Developed\Project Files\Asterix and Obelix XXL2 Remake Trainer\Asterix and Obelix XXL2 Remake Trainer\obj\Debug\Asterix and Obelix XXL2 Remake Trainer.pdb
